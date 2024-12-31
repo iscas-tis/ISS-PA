@@ -34,7 +34,7 @@ Just use `isspa_mapping_plugin` as the name of your algorithm:
 .. code-block:: bash
     
     mkdir -p ~/pa_ws/src && cd ~/pa_ws/src
-    git clone https://github.com/chenhengwei1999/ISSPA.git
+    git clone https://github.com/iscas-tis/ISS-PA.git
     cd ISSPA/src/isspa_mapping
     catkin_create_pkg isspa_mapping_plugin rospy roscpp std_msgs
 
